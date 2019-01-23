@@ -1,0 +1,7 @@
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\bin\Debug\Login_Lab.exe.config
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\bin\Debug\Login_Lab.exe
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\bin\Debug\Login_Lab.pdb
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\obj\Debug\Login_Lab.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\obj\Debug\Login_Lab.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\obj\Debug\Login_Lab.exe
+C:\Users\justi\Documents\Grandcircus projects\Labs\Login_Lab\Login_Lab\obj\Debug\Login_Lab.pdb
